@@ -8,11 +8,10 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^4.0.0",
-    "@astrojs/tailwind": "^5.0.0",
-    "@astrojs/mdx": "^1.0.0",
-    "@astrojs/sitemap": "^3.0.0",
-    "tailwindcss": "^3.4.1",
-    "@motionone/astro": "^2.0.0"
+    "astro": "^4.16.0",
+    "@astrojs/tailwind": "^5.1.0",
+    "@astrojs/mdx": "^3.1.0",
+    "@astrojs/sitemap": "^3.1.0",
+    "tailwindcss": "^3.4.1"
   }
 }

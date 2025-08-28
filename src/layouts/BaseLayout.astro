@@ -1,7 +1,10 @@
 ---
 const { title = 'Botfather24' } = Astro.props;
 const locale = Astro.currentLocale ?? 'ru';
-const prefix = locale === 'en' ? '/en/' : '/';
+const basePathRaw = Astro.site?.pathname ?? '/';
+const basePath = basePathRaw.endsWith('/') ? basePathRaw : basePathRaw + '/';
+const prefix = `${basePath}${locale === 'en' ? 'en/' : ''}`;
+const siteUrl = (Astro.site?.href ?? 'https://otar989.github.io/botfather24').replace(/\/$/, '');
 const nav = locale === 'en'
   ? { services: 'Services', cases: 'Cases', pricing: 'Pricing', process: 'Process', about: 'About', blog: 'Blog', faq: 'FAQ', contact: 'Contact', cta: 'Contact on Telegram', lang: 'RU' }
   : { services: 'Услуги', cases: 'Кейсы', pricing: 'Цены', process: 'Процесс', about: 'О компании', blog: 'Блог', faq: 'FAQ', contact: 'Контакты', cta: 'Написать в Telegram', lang: 'EN' };
@@ -29,7 +32,7 @@ const nav = locale === 'en'
         <li><a href={`${prefix}contact`}>{nav.contact}</a></li>
       </ul>
       <div class="flex gap-3 items-center">
-        <a href={locale === 'en' ? '/' : '/en/'} class="underline">{nav.lang}</a>
+        <a href={locale === 'en' ? basePath : `${basePath}en/`} class="underline">{nav.lang}</a>
         <a href="https://t.me/tgrobot24" class="px-4 py-2 rounded-xl bg-blue-600 text-white">{nav.cta}</a>
       </div>
     </nav>
@@ -56,7 +59,7 @@ const nav = locale === 'en'
       '@context': 'https://schema.org',
       '@type': 'Organization',
       name: 'Botfather24',
-      url: 'https://botfather24.example',
+      url: siteUrl,
       contactPoint: [{ '@type': 'ContactPoint', contactType: 'customer support', url: 'https://t.me/tgrobot24' }]
     })}
   </script>
@@ -65,7 +68,7 @@ const nav = locale === 'en'
       '@context': 'https://schema.org',
       '@type': 'WebSite',
       name: 'Botfather24',
-      url: 'https://botfather24.example'
+      url: siteUrl
     })}
   </script>
 </body>

@@ -1,19 +1,25 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { Motion } from '@motionone/astro';
 ---
 <BaseLayout title="We Build Telegram Mini Apps from Idea to Launch">
-  <Motion.section initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }} class="text-center space-y-4">
+  <section id="hero" class="text-center space-y-4 opacity-0 translate-y-5">
     <h1 class="text-4xl font-bold">We Build Telegram Mini Apps from Idea to Launch</h1>
     <p class="text-lg">Your business inside Telegram — custom design, smooth UX,
 instant payments, and seamless integrations.</p>
     <a href="https://t.me/tgrobot24" class="inline-block px-6 py-3 rounded-xl bg-blue-600 text-white">Contact on Telegram</a>
-  </Motion.section>
-  <Motion.ul initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.2 }} class="mt-10 space-y-2">
+  </section>
+  <ul id="advantages" class="mt-10 space-y-2 opacity-0">
     <li>🔹 Native Telegram UX, no app downloads</li>
     <li>🔹 In-app payments: Telegram Stars, TON, YuKassa</li>
     <li>🔹 Fast launch and scalability to millions</li>
     <li>🔹 Integrations with CRMs, catalogs, marketplaces, banks</li>
     <li>🔹 Full cycle: idea → design → development → release</li>
-  </Motion.ul>
+  </ul>
+  <script type="module">
+    import { animate } from 'motion'
+    const hero = document.getElementById('hero')
+    const adv = document.getElementById('advantages')
+    animate(hero, { opacity: [0, 1], transform: ['translateY(20px)', 'translateY(0)'] }, { duration: 0.5 })
+    animate(adv, { opacity: [0, 1] }, { delay: 0.2, duration: 0.4 })
+  </script>
 </BaseLayout>

@@ -23,5 +23,13 @@ Upload the contents of `dist/` to your Jino hosting root.
 
 ### Deploy to GitHub Pages
 
-1. Run `npm run build`.
-2. Commit and push the `dist` folder to the `gh-pages` branch or configure Pages to serve from `dist`.
+This repo includes an Actions workflow that builds Astro and deploys the `dist/` artifact to GitHub Pages.
+
+How to enable:
+- Ensure your repository is named `botfather24` (or update `site`/`base` in `astro.config.mjs`).
+- In repo Settings → Pages, set Source to “GitHub Actions”.
+- Push to `main` (or `master`) — the `Deploy Astro to GitHub Pages` workflow will build and publish.
+
+Notes:
+- `astro.config.mjs` uses `site=https://otar989.github.io/botfather24` and `base=/botfather24/` for proper asset paths.
+- A `.nojekyll` file is included to avoid Jekyll processing.
