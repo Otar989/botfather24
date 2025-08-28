@@ -3,9 +3,11 @@ import tailwind from '@astrojs/tailwind';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 
-// IMPORTANT: Update these if the repo name or account changes
-const SITE = 'https://otar989.github.io/botfather24';
-const BASE = '/botfather24/';
+// NOTE: Если теперь используете собственный домен (например botfather24.ru) меняем site/base.
+// Если продолжаете публиковать в GitHub Pages под /botfather24/, верните эти значения.
+const SITE = process.env.DEPLOY_DOMAIN || 'https://botfather24.ru';
+// Для кастомного домена base должен быть '/'. Для GitHub Pages с под-путём нужен '/botfather24/'.
+const BASE = process.env.DEPLOY_BASE || '/';
 
 export default defineConfig({
   site: SITE,
