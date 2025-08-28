@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+---
+<BaseLayout title="FAQ">
+  <div class="space-y-4">
+    <div><strong>How much does a Mini App cost?</strong><br/>From $2,000, depends on scope & design.</div>
+    <div><strong>Development time?</strong><br/>2–6 weeks.</div>
+    <div><strong>Post-launch support?</strong><br/>Yes, support plans available.</div>
+    <div><strong>In-app payments?</strong><br/>Yes: Stars, TON, YuKassa, Tinkoff.</div>
+    <div><strong>How to contact you?</strong><br/>DM us on Telegram.</div>
+  </div>
+  <script type="application/ld+json">
+  {JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      { '@type': 'Question', name: 'How much does a Mini App cost?', acceptedAnswer: { '@type': 'Answer', text: 'From $2,000, depends on scope & design.' } },
+      { '@type': 'Question', name: 'Development time?', acceptedAnswer: { '@type': 'Answer', text: '2–6 weeks.' } },
+      { '@type': 'Question', name: 'Post-launch support?', acceptedAnswer: { '@type': 'Answer', text: 'Yes, support plans available.' } },
+      { '@type': 'Question', name: 'In-app payments?', acceptedAnswer: { '@type': 'Answer', text: 'Yes: Stars, TON, YuKassa, Tinkoff.' } },
+      { '@type': 'Question', name: 'How to contact you?', acceptedAnswer: { '@type': 'Answer', text: 'DM us on Telegram.' } }
+    ]
+  })}
+  </script>
+</BaseLayout>

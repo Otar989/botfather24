@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Services">
+  <ul class="space-y-2">
+    <li>Full-Cycle Mini App Development — from concept to launch</li>
+    <li>UX/UI Design — Apple “liquid glass” style, fully responsive</li>
+    <li>Integrations — payments, catalogs, CRMs, Stars, TON</li>
+    <li>Games & Gamification — in-app currency, leaderboards</li>
+    <li>Web → Telegram Migration — bring your site to Telegram</li>
+  </ul>
+  <script type="application/ld+json">
+  {JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Telegram Mini App Development',
+    provider: { '@type': 'Organization', name: 'Botfather24' }
+  })}
+  </script>
+</BaseLayout>

@@ -1,0 +1,72 @@
+---
+const { title = 'Botfather24' } = Astro.props;
+const locale = Astro.currentLocale ?? 'ru';
+const prefix = locale === 'en' ? '/en/' : '/';
+const nav = locale === 'en'
+  ? { services: 'Services', cases: 'Cases', pricing: 'Pricing', process: 'Process', about: 'About', blog: 'Blog', faq: 'FAQ', contact: 'Contact', cta: 'Contact on Telegram', lang: 'RU' }
+  : { services: 'Услуги', cases: 'Кейсы', pricing: 'Цены', process: 'Процесс', about: 'О компании', blog: 'Блог', faq: 'FAQ', contact: 'Контакты', cta: 'Написать в Telegram', lang: 'EN' };
+---
+<html lang={locale}>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@3.4.1/dist/tailwind.min.css" />
+  <script type="module" src="https://cdn.jsdelivr.net/npm/motion@10.16.4/+esm"></script>
+</head>
+<body class="bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100">
+  <header class="sticky top-0 backdrop-blur bg-white/70 dark:bg-gray-900/70 shadow-sm z-50">
+    <nav class="max-w-7xl mx-auto flex items-center justify-between p-4">
+      <a href={prefix} class="font-bold text-xl">Botfather24</a>
+      <ul class="hidden md:flex gap-4">
+        <li><a href={`${prefix}services`}>{nav.services}</a></li>
+        <li><a href={`${prefix}cases`}>{nav.cases}</a></li>
+        <li><a href={`${prefix}pricing`}>{nav.pricing}</a></li>
+        <li><a href={`${prefix}process`}>{nav.process}</a></li>
+        <li><a href={`${prefix}about`}>{nav.about}</a></li>
+        <li><a href={`${prefix}blog`}>{nav.blog}</a></li>
+        <li><a href={`${prefix}faq`}>{nav.faq}</a></li>
+        <li><a href={`${prefix}contact`}>{nav.contact}</a></li>
+      </ul>
+      <div class="flex gap-3 items-center">
+        <a href={locale === 'en' ? '/' : '/en/'} class="underline">{nav.lang}</a>
+        <a href="https://t.me/tgrobot24" class="px-4 py-2 rounded-xl bg-blue-600 text-white">{nav.cta}</a>
+      </div>
+    </nav>
+  </header>
+  <main class="max-w-5xl mx-auto p-4">
+    <slot />
+  </main>
+  <a href="https://t.me/tgrobot24" class="fixed bottom-4 right-4 md:hidden px-4 py-2 bg-blue-600 text-white rounded-full shadow-lg">{nav.cta}</a>
+  <footer class="mt-16 p-4 text-center text-sm">
+    <div class="flex justify-center gap-4 mb-2">
+      <a href={`${prefix}services`}>{nav.services}</a>
+      <a href={`${prefix}cases`}>{nav.cases}</a>
+      <a href={`${prefix}pricing`}>{nav.pricing}</a>
+      <a href={`${prefix}process`}>{nav.process}</a>
+      <a href={`${prefix}about`}>{nav.about}</a>
+      <a href={`${prefix}blog`}>{nav.blog}</a>
+      <a href={`${prefix}faq`}>{nav.faq}</a>
+      <a href={`${prefix}contact`}>{nav.contact}</a>
+    </div>
+    <p>© {new Date().getFullYear()} Botfather24</p>
+  </footer>
+  <script type="application/ld+json">
+    {JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Organization',
+      name: 'Botfather24',
+      url: 'https://botfather24.example',
+      contactPoint: [{ '@type': 'ContactPoint', contactType: 'customer support', url: 'https://t.me/tgrobot24' }]
+    })}
+  </script>
+  <script type="application/ld+json">
+    {JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: 'Botfather24',
+      url: 'https://botfather24.example'
+    })}
+  </script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Услуги">
+  <ul class="space-y-2">
+    <li>Mini App под ключ — полный цикл разработки и публикации</li>
+    <li>UX/UI дизайн — стиль Apple “liquid glass”, адаптивность</li>
+    <li>Интеграции — платежи, каталоги, CRM, Stars, TON</li>
+    <li>Игры и геймификация — внутриигровая валюта, рейтинги</li>
+    <li>Миграция Web → Telegram Mini App — перенос сайта в Telegram</li>
+  </ul>
+  <script type="application/ld+json">
+  {JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Telegram Mini App Development',
+    provider: { '@type': 'Organization', name: 'Botfather24' }
+  })}
+  </script>
+</BaseLayout>

@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+<BaseLayout title="FAQ">
+  <div class="space-y-4">
+    <div><strong>Сколько стоит Mini App?</strong><br/>От $2,000, зависит от функционала и дизайна.</div>
+    <div><strong>Сколько длится разработка?</strong><br/>От 2–6 недель.</div>
+    <div><strong>Поддерживаете ли вы проект после релиза?</strong><br/>Да, есть пакеты поддержки.</div>
+    <div><strong>Можно ли принимать платежи внутри Telegram?</strong><br/>Да, поддерживаем Stars, TON, ЮKassa, Tinkoff.</div>
+    <div><strong>Как связаться с вами?</strong><br/>Напишите нам в Telegram.</div>
+  </div>
+  <script type="application/ld+json">
+  {JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      { '@type': 'Question', name: 'Сколько стоит Mini App?', acceptedAnswer: { '@type': 'Answer', text: 'От $2,000, зависит от функционала и дизайна.' } },
+      { '@type': 'Question', name: 'Сколько длится разработка?', acceptedAnswer: { '@type': 'Answer', text: 'От 2–6 недель.' } },
+      { '@type': 'Question', name: 'Поддерживаете ли вы проект после релиза?', acceptedAnswer: { '@type': 'Answer', text: 'Да, есть пакеты поддержки.' } },
+      { '@type': 'Question', name: 'Можно ли принимать платежи внутри Telegram?', acceptedAnswer: { '@type': 'Answer', text: 'Да, поддерживаем Stars, TON, ЮKassa, Tinkoff.' } },
+      { '@type': 'Question', name: 'Как связаться с вами?', acceptedAnswer: { '@type': 'Answer', text: 'Напишите нам в Telegram.' } }
+    ]
+  })}
+  </script>
+</BaseLayout>
