@@ -1,0 +1,2705 @@
+{
+  "block_lists":{
+    "stickers-lite2-pfc81b11e5623e044f":{
+      "block_template":"system-text-hex-2",
+      "title":"Цвет  стикеров 1",
+      "blocks":[
+        "tsvet-stikerov-lite2-1-3-pfc81b11e5623e044f",
+        "tsvet-stikerov-lite2-2-3-pfc81b11e5623e044f"
+      ]
+    },
+    "header-lite2-131-pfc81b11e5623e044f":{
+      "block_template":"system-banner-header",
+      "title":"Шапка с баннером",
+      "blocks":[
+        "shapka-s-bannerom-lite2-78bc10-131-pfc81b11e5623e044f"
+      ]
+    },
+    "banner-lite2-pfc81b11e5623e044f":{
+      "block_template":"system-banner-block-2",
+      "title":"Баннер с текстом и кнопкой",
+      "blocks":[
+        "banner-s-tekstom-i-knopkoy-lite2-3-pfc81b11e5623e044f"
+      ]
+    },
+    "benefits-lite2-pfc81b11e5623e044f":{
+      "block_template":"system-benefit-3",
+      "title":"Преимущества в 2 ряда",
+      "blocks":[
+        "preimuschestva-v-2-ryada-lite2-648014-pfc81b11e5623e044f",
+        "preimuschestva-v-2-ryada-lite2-829b51-pfc81b11e5623e044f",
+        "preimuschestva-v-2-ryada-lite2-f5823d-pfc81b11e5623e044f",
+        "preimuschestva-v-2-ryada-lite2-05109a-pfc81b11e5623e044f",
+        "preimuschestva-v-2-ryada-lite2-b299ae-pfc81b11e5623e044f",
+        "preimuschestva-v-2-ryada-lite2-a20f4d-pfc81b11e5623e044f"
+      ]
+    },
+    "simple-text-lite2-pfc81b11e5623e044f":{
+      "block_template":"system-text-column",
+      "title":"О компании",
+      "blocks":[
+        "simple-text-column2-pfc81b11e5623e044f"
+      ]
+    },
+    "block-list-2cfb44bce573b725":{
+      "block_template":"system-banner-block-2",
+      "title":"Баннер с текстом и кнопкой",
+      "blocks":[
+        "banner-s-tekstom-i-knopkoy"
+      ]
+    },
+    "block-list-97319011a1c968b7":{
+      "block_template":"system-banner-block-2",
+      "title":"Баннер с текстом и кнопкой",
+      "blocks":[
+        "banner-s-tekstom-i-knopkoy-2"
+      ]
+    },
+    "block-list-651b620ec0e67e3b":{
+      "block_template":"system-banner-block-2",
+      "title":"Баннер с текстом и кнопкой",
+      "blocks":[
+        "banner-s-tekstom-i-knopkoy-3"
+      ]
+    },
+    "block-list-d5a6a58416a5d8f9":{
+      "block_template":"system-benefit-2",
+      "title":"Преимущества в ряд",
+      "blocks":[
+        "preimuschestva-v-ryad",
+        "preimuschestva-v-ryad-2",
+        "preimuschestva-v-ryad-3"
+      ]
+    },
+    "block-list-22f45bb3076b899a":{
+      "block_template":"system-faq",
+      "title":"Раскрывающиеся карточки",
+      "blocks":[
+        "raskryvayuschiesya-kartochki",
+        "raskryvayuschiesya-kartochki-2",
+        "raskryvayuschiesya-kartochki-3"
+      ]
+    },
+    "block-list-0085b9661e1c8d18":{
+      "block_template":"system-personal",
+      "title":"Сотрудники",
+      "blocks":[
+        "sotrudniki-cc32df",
+        "sotrudniki-a88ea7",
+        "sotrudniki-1fa7f1"
+      ]
+    },
+    "block-list-d21502c267a9244e":{
+      "block_template":"system-form-constructor-3",
+      "title":"Форма обратной связи",
+      "blocks":[
+        "forma-obratnoy-svyazi",
+        "forma-obratnoy-svyazi-2",
+        "forma-obratnoy-svyazi-3",
+        "forma-obratnoy-svyazi-1521b5"
+      ]
+    },
+    "block-list-d6e050b64de8167d":{
+      "block_template":"system-banner-7",
+      "title":"Баннер - картинка",
+      "blocks":[
+        "banner-kartinka"
+      ]
+    }
+  },
+  "blocks":{
+    "tsvet-stikerov-lite2-1-3-pfc81b11e5623e044f":{
+      "block_template":"system-text-hex-2",
+      "title":"Новинка",
+      "name":"Новинка",
+      "hex":"#76BC21"
+    },
+    "tsvet-stikerov-lite2-2-3-pfc81b11e5623e044f":{
+      "block_template":"system-text-hex-2",
+      "title":"Распродажа",
+      "name":"Распродажа",
+      "hex":"#FE7200"
+    },
+    "shapka-s-bannerom-lite2-78bc10-131-pfc81b11e5623e044f":{
+      "block_template":"system-banner-header",
+      "title":"Шапка с баннером",
+      "image":"39735640",
+      "image-mobile":"39735640",
+      "caption":"Мы делаем Telegram Mini Apps!",
+      "text":"Запустим интернет-магазин, сервис доставки или приём заявок в Telegram в течение 14 дней",
+      "link-text":"Обсудить проект",
+      "button-action":"open-feedback",
+      "link":""
+    },
+    "banner-s-tekstom-i-knopkoy-lite2-3-pfc81b11e5623e044f":{
+      "block_template":"system-banner-block-2",
+      "title":"Баннер с текстом и кнопкой",
+      "name":"<strong>О нас</strong>",
+      "content":"<p class=\"\">Мы — команда, которая создаёт <strong>Telegram мини-приложения</strong> для автоматизации бизнеса.</p>\n<p class=\"\">Мы не просто пишем код — мы решаем бизнес-задачи.<br>Наши боты обрабатывают заявки, продают, консультируют и интегрируются с CRM, сайтом или Google-таблицами.</p>\n<p class=\"\">Результат — автоматизация рутинных процессов, экономия времени и рост прибыли.</p>",
+      "image":"39735404",
+      "link":"",
+      "button_text":"Узнать подробнее"
+    },
+    "preimuschestva-v-2-ryada-lite2-648014-pfc81b11e5623e044f":{
+      "block_template":"system-benefit-3",
+      "title":"Преимущества в 2 ряда",
+      "name":"<strong>Интернет-магазины</strong><span> — каталог товаров, оформление и оплата заказа прямо в Telegram</span>",
+      "image":"29814569"
+    },
+    "preimuschestva-v-2-ryada-lite2-829b51-pfc81b11e5623e044f":{
+      "block_template":"system-benefit-3",
+      "title":"Преимущества в 2 ряда",
+      "name":"<strong>Сервисы доставки</strong> — быстрый заказ, отслеживание и уведомления о доставке",
+      "image":"29814570"
+    },
+    "preimuschestva-v-2-ryada-lite2-f5823d-pfc81b11e5623e044f":{
+      "block_template":"system-benefit-3",
+      "title":"Преимущества в 2 ряда",
+      "name":"<strong>Онлайн-запись и бронирование</strong> — <span>запись и оплата услуг за 2 клика</span>",
+      "image":"29814573"
+    },
+    "preimuschestva-v-2-ryada-lite2-05109a-pfc81b11e5623e044f":{
+      "block_template":"system-benefit-3",
+      "title":"Преимущества в 2 ряда",
+      "name":"<strong>Образовательные платформы</strong> — доступ к урокам, тестам и прогрессу без выхода из мессенджера",
+      "image":"29814574"
+    },
+    "preimuschestva-v-2-ryada-lite2-b299ae-pfc81b11e5623e044f":{
+      "block_template":"system-benefit-3",
+      "title":"Преимущества в 2 ряда",
+      "name":"<strong>Финансовые решения</strong> — приём оплат, переводы, личные кабинеты и истории операций",
+      "image":"29814577"
+    },
+    "preimuschestva-v-2-ryada-lite2-a20f4d-pfc81b11e5623e044f":{
+      "block_template":"system-benefit-3",
+      "title":"Преимущества в 2 ряда",
+      "name":"<strong>Опросы, игры и квизы</strong> — <span>опросы, голосования и мини-игры для вовлечения</span>",
+      "image":"29814578"
+    },
+    "simple-text-column2-pfc81b11e5623e044f":{
+      "block_template":"system-text-column",
+      "title":"Текст",
+      "content":"<p style=\"text-align: center;\"><span style=\"color: rgb(35, 111, 161);\"><strong><span style=\"color: rgb(0, 0, 0);\">BOTFATHER24</span></strong> </span>— это команда разработчиков, специализирующаяся на создании Telegram Mini Apps под ключ. Мы помогаем бизнесу запускать интернет-магазины, сервисы доставки, системы лояльности, бронирование и другие сервисы прямо в Telegram.</p>\n<p class=\"\" style=\"text-align: center;\">Работаем как с крупными компаниями, так и с малым бизнесом. Предлагаем понятные решения под задачи клиента — от идеи до запуска за 14 дней. Наша цель — рост ваших продаж и автоматизация процессов через современные инструменты Telegram.</p>"
+    },
+    "banner-s-tekstom-i-knopkoy":{
+      "block_template":"system-banner-block-2",
+      "title":"Баннер с текстом и кнопкой",
+      "name":"<span>Этапы разработки Telegram Mini App</span>",
+      "content":"<p><strong><span><span style=\"color: rgb(53, 152, 219);\">1.</span> Обсуждаем идею</span></strong><br><span>Созваниваемся или переписываемся — вы рассказываете, что хотите реализовать, мы уточняем детали и цели.</span></p>",
+      "image":"39616257",
+      "link":"",
+      "button_text":"Узнать подробнее"
+    },
+    "banner-s-tekstom-i-knopkoy-2":{
+      "block_template":"system-banner-block-2",
+      "title":"Баннер с текстом и кнопкой",
+      "name":"",
+      "content":"<p><strong><span style=\"color: rgb(53, 152, 219);\">2.</span> <span>Предлагаем решение</span></strong><br><span>На основе задачи делаем прототип, подбираем механику и показываем, как это будет работать в Telegram.</span></p>",
+      "image":"39616378",
+      "link":"",
+      "button_text":"Узнать подробнее"
+    },
+    "banner-s-tekstom-i-knopkoy-3":{
+      "block_template":"system-banner-block-2",
+      "title":"Баннер с текстом и кнопкой",
+      "name":"",
+      "content":"<p><strong><span style=\"color: rgb(53, 152, 219);\">3.</span> <span>Разрабатываем и запускаем</span></strong><br><span>Создаём Mini App, подключаем платёжные системы, CRM и другие сервисы, тестируем и публикуем.</span></p>",
+      "image":"39616261",
+      "link":"",
+      "button_text":"Узнать подробнее"
+    },
+    "preimuschestva-v-ryad":{
+      "block_template":"system-benefit-2",
+      "title":"Преимущества в ряд",
+      "description":"<div>Мини-приложения Telegram<span> позволяют общаться с клиентами прямо внутри мессенджера — без лишних переходов и скачиваний. Всё происходит в одном окне чата.</span></div>",
+      "image":"39712939",
+      "name":"<span>Удобное взаимодействие с аудиторией</span>"
+    },
+    "preimuschestva-v-ryad-2":{
+      "block_template":"system-benefit-2",
+      "title":"Преимущества в ряд",
+      "description":"<div><span>Пользователь не покидает Telegram — это устраняет \"точки потерь\", снижает отвлечённость и повышает вероятность завершения целевого действия: покупки, регистрации, бронирования и др.</span></div>",
+      "image":"39711086",
+      "name":"<span>Максимальная конверсия</span>"
+    },
+    "preimuschestva-v-ryad-3":{
+      "block_template":"system-benefit-2",
+      "title":"Преимущества в ряд",
+      "description":"<div>Поддерживают авторизацию, оплату, push-уведомления, интеграции с CRM и персонализированный интерфейс — ничем не уступают мобильным приложениям или сайтам.</div>",
+      "image":"39713092",
+      "name":"<span>Полноценный функционал внутри</span>"
+    },
+    "raskryvayuschiesya-kartochki":{
+      "block_template":"system-faq",
+      "title":"Раскрывающиеся карточки",
+      "question":"Что такое Telegram Mini App и чем он отличается от бота?",
+      "answer":"<p><span>Telegram Mini App — это полноценное приложение, работающее прямо внутри Telegram. В отличие от обычного бота, мини-приложение имеет интерфейс, поддержку авторизации, оплат и другие функции, схожие с мобильными приложениями.</span></p>"
+    },
+    "raskryvayuschiesya-kartochki-2":{
+      "block_template":"system-faq",
+      "title":"Раскрывающиеся карточки",
+      "question":"Какие задачи можно решить с помощью Telegram Mini App?",
+      "answer":"<p class=\"\">С помощью мини-приложений можно:</p>\n<ul>\n<li class=\"\">\n<p class=\"\">продавать товары и услуги;</p>\n</li>\n<li class=\"\">\n<p class=\"\">принимать заказы и бронирования;</p>\n</li>\n<li class=\"\">\n<p class=\"\">обучать клиентов;</p>\n</li>\n<li class=\"\">\n<p class=\"\">собирать данные;</p>\n</li>\n<li class=\"\">\n<p class=\"\">запускать игры и квизы;</p>\n</li>\n<li class=\"\">\n<p class=\"\">интегрироваться с CRM и другими сервисами.</p>\n</li>\n</ul>"
+    },
+    "raskryvayuschiesya-kartochki-3":{
+      "block_template":"system-faq",
+      "title":"Раскрывающиеся карточки",
+      "question":"Почему Mini App лучше, чем сайт или мобильное приложение?",
+      "answer":"<p><span>Клиент остаётся внутри Telegram — без необходимости скачивать приложение или переходить на сторонние сайты. Это сокращает «точки потерь» и повышает конверсию. Telegram Mini App открывается моментально и доступен прямо в чате.</span></p>"
+    },
+    "sotrudniki-cc32df":{
+      "block_template":"system-personal",
+      "title":"Сотрудники",
+      "name":"Алексей",
+      "subtitle":"Backend-разработчик",
+      "description":"<p style=\"text-align: center;\"><strong>Занимается логикой приложения.</strong></p>\n<p style=\"text-align: center;\">Алексей — наш архитектор невидимого. Он пишет чистый, надёжный код, который связывает пользовательский интерфейс с серверной логикой. Благодаря ему все процессы внутри мини-аппов работают чётко и быстро.</p>",
+      "image":"39734884"
+    },
+    "sotrudniki-a88ea7":{
+      "block_template":"system-personal",
+      "title":"Сотрудники",
+      "name":"Дарья",
+      "subtitle":"UI/UX-дизайнер",
+      "description":"<p><strong>Отвечает за внешний вид и удобство мини-приложений.</strong></p>\n<p>Дарья превращает сложные процессы в простой и понятный интерфейс. Она проводит исследования, делает прототипы и следит за тем, чтобы каждому пользователю было легко и приятно работать с нашими мини-аппами.</p>",
+      "image":"39734881"
+    },
+    "sotrudniki-1fa7f1":{
+      "block_template":"system-personal",
+      "title":"Сотрудники",
+      "name":"<span>Илья</span>",
+      "subtitle":"<span>Frontend-разработчик</span>",
+      "description":"<div><strong>Работает с Telegram Web Apps API и оживляет дизайн.</strong></div>\n<div><strong><br></strong>Илья превращает макеты в живой интерфейс. Он следит за отзывчивостью, анимацией и тем, чтобы мини-апп выглядел идеально на любом устройстве.<strong><br></strong></div>",
+      "image":"39734883"
+    },
+    "forma-obratnoy-svyazi":{
+      "block_template":"system-form-constructor-3",
+      "title":"Форма обратной связи",
+      "type":"text",
+      "label":"Имя",
+      "required":"t"
+    },
+    "forma-obratnoy-svyazi-2":{
+      "block_template":"system-form-constructor-3",
+      "title":"Форма обратной связи",
+      "type":"phone",
+      "label":"Телефон",
+      "required":"t"
+    },
+    "forma-obratnoy-svyazi-3":{
+      "block_template":"system-form-constructor-3",
+      "title":"Форма обратной связи",
+      "type":"email",
+      "label":"Почта",
+      "required":"f"
+    },
+    "forma-obratnoy-svyazi-1521b5":{
+      "block_template":"system-form-constructor-3",
+      "title":"Форма обратной связи",
+      "type":"textarea",
+      "label":"Комментарий",
+      "required":"f"
+    },
+    "banner-kartinka":{
+      "block_template":"system-banner-7",
+      "title":"Баннер - картинка",
+      "image":"39735376",
+      "link":""
+    }
+  },
+  "theme_widgets":{
+    "widget_lists":[
+      {
+        "handle":"blog-list",
+        "kind":"content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Блог",
+          "en":"Blog",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Блог",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Blog"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":2,
+              "layout-pb":2,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "tags-background-color":"#fafafa",
+              "item-background-color":"",
+              "grid-list-row-gap":2,
+              "hide-date":false,
+              "blog_desc_limit":100,
+              "hide-tags":true,
+              "hide-description":false,
+              "hide-article-tags":true,
+              "img-border-radius":6,
+              "img-ratio":1.5,
+              "hide-title":false,
+              "img-fit":"cover",
+              "widget-heading-ratio":1.5,
+              "widget-heading-weight":500,
+              "limit":{
+                "ru":12
+              }
+            },
+            "widget_type":"system_widget_v4_blog_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":3,
+              "layout-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "align":"center"
+            },
+            "widget_type":"system_widget_v4_pagination_3",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"collection-list",
+        "kind":"content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Категория",
+          "en":"Category",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Категорія",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Categoría"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":0,
+              "layout-pb":2,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "img-ratio":1,
+              "catalog-grid-list-min-width":220,
+              "catalog-grid-list-min-width-mobile":150,
+              "catalog-grid-list-row-gap":2,
+              "catalog-grid-list-row-gap-mobile":2,
+              "catalog-grid-list-column-gap":2,
+              "catalog-grid-list-column-gap-mobile":1,
+              "hide-description":true,
+              "product-desc-limit":10,
+              "switch-img-on-hover":false,
+              "product-info-accent":"price",
+              "img-fit":"contain",
+              "sticker-font-size":0.7,
+              "product-info-align":"left",
+              "hide-mobile-modal-variants":false,
+              "display-property-color":"text",
+              "border-radius":16,
+              "rounding-button":true,
+              "product-background":"#FFFFFF"
+            },
+            "widget_type":"system_widget_v4_catalog_3",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":3,
+              "layout-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "align":"center"
+            },
+            "widget_type":"system_widget_v4_pagination_3",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"product-list",
+        "kind":"content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Страница товара",
+          "en":"Product page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сторінка товару",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Página del producto"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":"3.5",
+              "layout-pb":"3.5",
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "img-ratio":1,
+              "product-hide-short-description":false,
+              "product-hide-full-description":false,
+              "product-hide-variants-title":false,
+              "product-hide-compare":true,
+              "product-hide-sku":false,
+              "product-hide-rating":false,
+              "rating-color":"#76BC21",
+              "sticker-font-size":0.9,
+              "img-fit":"contain",
+              "show-selected-variant-photos":false,
+              "video-before-image":false,
+              "display-property-color":"text",
+              "product-hide-description":false,
+              "sale-bg":"#76BC21"
+            },
+            "widget_type":"system_widget_v4_product_4",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"bottom-panel-list",
+        "kind":"bottom_panel",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Нижняя панель",
+          "en":"Bottom panel",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Нижня панель",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"El panel inferior"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-pt":0.5,
+              "layout-pb":0.5,
+              "hide-mobile":false,
+              "hide-desktop":true,
+              "bage-bg":"#5956CE",
+              "hide-search":true,
+              "hide-personal":true,
+              "hide-cart":true,
+              "show-catalog-instead-home":false,
+              "hide-bottom-navigation-bar":true,
+              "hide-favorites":false
+            },
+            "widget_type":"system_widget_v4_bottom_navigation_bar_1",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"collection-section_bottom-list",
+        "kind":"after_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Нижняя секция категории",
+          "en":"Bottom section of the category",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Нижня секція категорії",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección inferior de la categoría"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"index-section_top-list",
+        "kind":"before_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Верхняя секция страницы",
+          "en":"Top section of the page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Верхня секція сторінки",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección superior de la página"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"sidebar_article-list",
+        "kind":"sidebar",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Сайдбар",
+          "en":"Sidebar",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сайдбар",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Barra lateral"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"sidebar_page-list",
+        "kind":"sidebar",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Сайдбар",
+          "en":"Sidebar",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сайдбар",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Barra lateral"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"cart-list",
+        "kind":"content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Корзина",
+          "en":"Cart",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Кошик",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Carro"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":1,
+              "layout-pb":1,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "button_text":{
+                "ru":"Вернуться к покупкам",
+                "en":"Back to shopping",
+                "ua":"Повернутися до покупок",
+                "es":"Volver a las compras"
+              }
+            },
+            "widget_type":"system_widget_v4_back_to_catalog",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":"1.5",
+              "layout-pb":"3.5",
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "block-background-color":"#fafafa",
+              "page_header":{
+                "ru":"Корзина",
+                "en":"Cart",
+                "ua":"Кошик",
+                "es":"Cesta"
+              },
+              "border-radius":0,
+              "img-ratio":1,
+              "img-fit":"contain",
+              "shared-cart-enable":false,
+              "bg":null
+            },
+            "widget_type":"system_widget_v4_cart_3",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"blog-section_top-list",
+        "kind":"before_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Верхняя секция блога",
+          "en":"Top section of the blog",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Верхня секція блогу",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección superior del blog"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"favorite-list",
+        "kind":"content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Избранное",
+          "en":"Favorites",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Вибране",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Favoritos"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":1.5,
+              "layout-pb":0.5,
+              "hide-mobile":false,
+              "hide-desktop":false
+            },
+            "widget_type":"system_widget_v4_page_title_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":3,
+              "layout-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "img-ratio":1,
+              "catalog-grid-list-min-width":200,
+              "catalog-grid-list-min-width-mobile":150,
+              "catalog-grid-list-row-gap":1,
+              "catalog-grid-list-column-gap":2,
+              "hide-description":true,
+              "product-desc-limit":10,
+              "switch-img-on-hover":false,
+              "product-info-accent":"price",
+              "img-fit":"contain",
+              "sticker-font-size":0.7,
+              "product-info-align":"left",
+              "catalog-grid-list-row-gap-mobile":2,
+              "catalog-grid-list-column-gap-mobile":1
+            },
+            "widget_type":"system_widget_v4_catalog_2",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"page-section_bottom-list",
+        "kind":"after_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Нижняя секция страницы",
+          "en":"Bottom section of the page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Нижня секція сторінки",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección inferior de la página"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"sidebar_index-list",
+        "kind":"sidebar",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Сайдбар",
+          "en":"Sidebar",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сайдбар",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Barra lateral"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"sidebar_product-list",
+        "kind":"sidebar",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Сайдбар",
+          "en":"Sidebar",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сайдбар",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Barra lateral"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"cart-section_bottom-list",
+        "kind":"after_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Нижняя секция страницы корзина",
+          "en":"Bottom section of the cart page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Нижня секція сторінки кошик",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección inferior de la página del carrito"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"compare-section_top-list",
+        "kind":"before_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Верхняя секция сравнения",
+          "en":"Top section of the comparison page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Верхня секція порівняння",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección superior de la página de comparación"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"search-section_top-list",
+        "kind":"before_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Верхняя секция поиска",
+          "en":"Upper search section",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Верхня секція пошуку",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección de búsqueda superior"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"compare-list",
+        "kind":"content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Сравнение",
+          "en":"Comparison",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Порівняння",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Comparación"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":1,
+              "layout-pb":1,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "button_text":{
+                "ru":"Вернуться к покупкам",
+                "en":"Back to shopping",
+                "ua":"Повернутися до покупок",
+                "es":"Volver a las compras"
+              }
+            },
+            "widget_type":"system_widget_v4_back_to_catalog",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":1,
+              "layout-pb":0,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "page_heading":{
+                "ru":"Сравнение",
+                "en":"Compare",
+                "ua":"Порівняння",
+                "es":"Comparación"
+              },
+              "img-ratio":1.2,
+              "img-fit":"contain",
+              "rating-color":"#1B2738",
+              "border-radius":0
+            },
+            "widget_type":"system_widget_v4_compare_2",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"compare-section_bottom-list",
+        "kind":"after_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Нижняя секция страницы сравнения",
+          "en":"Bottom section of the comparison page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Нижня секція сторінки порівняння",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección inferior de la página de comparación"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"search-list",
+        "kind":"content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Поиск",
+          "en":"Search",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Пошук",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Búsqueda"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":"1",
+              "layout-pb":"1",
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "align":"start",
+              "delemeter":"2",
+              "bg":"",
+              "layout-ege":false,
+              "breadcrumb-color":"#333333"
+            },
+            "widget_type":"system_widget_v4_breadcrumbs_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":1.5,
+              "layout-pb":0.5,
+              "hide-mobile":false,
+              "hide-desktop":false
+            },
+            "widget_type":"system_widget_v4_page_title_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":2,
+              "layout-pb":2,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "live-search":false
+            },
+            "widget_type":"system_widget_v4_search_form_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":3,
+              "layout-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "img-ratio":1,
+              "catalog-grid-list-min-width":220,
+              "catalog-grid-list-min-width-mobile":150,
+              "catalog-grid-list-row-gap":2,
+              "catalog-grid-list-row-gap-mobile":2,
+              "catalog-grid-list-column-gap":2,
+              "catalog-grid-list-column-gap-mobile":1,
+              "hide-description":true,
+              "product-desc-limit":10,
+              "switch-img-on-hover":false,
+              "product-info-accent":"price",
+              "img-fit":"contain",
+              "sticker-font-size":0.7,
+              "product-info-align":"left",
+              "hide-mobile-modal-variants":false,
+              "display-property-color":"text",
+              "border-radius":16,
+              "rounding-button":true,
+              "product-background":"#FFFFFF"
+            },
+            "widget_type":"system_widget_v4_catalog_3",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":3,
+              "layout-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "align":"center"
+            },
+            "widget_type":"system_widget_v4_pagination_3",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"search-section_bottom-list",
+        "kind":"after_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Нижняя секция страницы поиска",
+          "en":"Bottom section of the search page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Нижня секція сторінки пошуку",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección inferior de la página de búsqueda"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"index-section_bottom-list",
+        "kind":"after_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Нижняя секция страницы",
+          "en":"Bottom section of the page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Нижня секція сторінки",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección inferior de la página"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"blog-section_bottom-list",
+        "kind":"after_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Нижняя секция страницы блога",
+          "en":"Bottom section of the blog page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Нижня секція сторінки блогу",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección inferior de la página del blog"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"cart-section_top-list",
+        "kind":"before_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Верхняя секция корзины",
+          "en":"Top section of the cart page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Верхняя секция корзины",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección superior de la página del carrito"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"article-section_top-list",
+        "kind":"before_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Верхняя секция статьи",
+          "en":"Top section of the article",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Верхня секція статті",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección superior del artículo"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"page-list",
+        "kind":"content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Страница",
+          "en":"Page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сторінка",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Página"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":"1",
+              "layout-pb":"1",
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "align":"start",
+              "delemeter":"2",
+              "bg":"",
+              "layout-ege":false,
+              "breadcrumb-color":"#333333"
+            },
+            "widget_type":"system_widget_v4_breadcrumbs_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":true,
+              "layout-edge":true,
+              "layout-pt":0,
+              "layout-pb":0,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "open-link":"normal",
+              "banner-border-radius":0,
+              "show-mark":false,
+              "mark-text":{
+                "ru":"© 2008-2023. Все права защищены. ООО «Инсейлс Рус» (InSales Rus LLC)."
+              },
+              "mark-bg":"#555",
+              "mark-text-color":"#fff"
+            },
+            "widget_type":"system_widget_v4_page_banner_3_1",
+            "html_id":null,
+            "data_handle":"block-list-d6e050b64de8167d"
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":"1.5",
+              "layout-pb":2,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "bg":"#F6F6F7"
+            },
+            "widget_type":"system_widget_v4_page_content_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":3,
+              "layout-pb":2,
+              "layout-mt":0,
+              "layout-mb":0,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "layout-content-max-width":680,
+              "align-title":"center",
+              "form_title":{
+                "ru":"Свяжитесь с нами",
+                "en":"Feedback",
+                "ua":"Зворотній зв'язок",
+                "es":"Comentarios"
+              },
+              "submit_btn_title":{
+                "ru":"Отправить",
+                "en":"Send",
+                "ua":"Відправити",
+                "es":"Enviar"
+              },
+              "hide-use-agree":true,
+              "success_message":{
+                "ru":"Сообщение успешно отправлено!",
+                "en":"Message sent successfully!",
+                "ua":"Повідомлення успішно відправлено!",
+                "es":"Mensaje enviado exitosamente!"
+              }
+            },
+            "widget_type":"system_widget_v4_feedback_2",
+            "html_id":null,
+            "data_handle":"block-list-d21502c267a9244e"
+          }
+        ]
+      },
+      {
+        "handle":"sidebar_collection-list",
+        "kind":"sidebar",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Сайдбар",
+          "en":"Sidebar",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сайдбар",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Barra lateral"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"index-list",
+        "kind":"content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Контент",
+          "en":"Content",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Контент",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Contenido"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-edge":true,
+              "layout-pt":2,
+              "layout-pb":2,
+              "hide-mobile":true,
+              "hide-desktop":false,
+              "grid-list-min-width":330,
+              "grid-list-row-gap":2,
+              "grid-list-column-gap":2,
+              "font-size-content":1,
+              "img-border-radius":6,
+              "margin-bottom-title":3,
+              "image-width":100,
+              "img-fit":"cover",
+              "img-ratio":1,
+              "title":{
+                "ru":"<strong>ЗАЧЕМ СОЗДАВАТЬ TELEGRAM MINI APPS?</strong>",
+                "en":"Benefits",
+                "ua":"Переваги",
+                "es":"Beneficios"
+              },
+              "hide-title":false,
+              "align-title":"center",
+              "layout-content-max-width":null,
+              "bg":"#F6F6F7"
+            },
+            "widget_type":"system_widget_v4_benefits_2",
+            "html_id":null,
+            "data_handle":"block-list-d5a6a58416a5d8f9"
+          },
+          {
+            "settings_data":{
+              "open_first_card":false,
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":2,
+              "layout-pb":2,
+              "hide-mobile":false,
+              "hide-desktop":true,
+              "layout-edge":false
+            },
+            "widget_type":"system_widget_v4_accordion_cards_1",
+            "html_id":null,
+            "data_handle":"block-list-22f45bb3076b899a"
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-edge":false,
+              "layout-pt":"3.5",
+              "layout-pb":"3.5",
+              "grid-list-min-width":280,
+              "grid-list-row-gap":1,
+              "grid-list-column-gap":1,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "benefit-overlay-color":"#FFFFFF",
+              "align-title":"center",
+              "image-width":32,
+              "font-size-content":1,
+              "title":{
+                "ru":"<strong>Telegram Mini Apps, которые мы создаём</strong>",
+                "en":"Our benefits",
+                "ua":"Наші переваги",
+                "es":"Nuestras ventajas"
+              },
+              "img-fit":"contain",
+              "img-ratio":1,
+              "img-border-radius":0,
+              "margin-bottom-title":2,
+              "bg":null
+            },
+            "widget_type":"system_widget_v4_benefits_5",
+            "html_id":null,
+            "data_handle":"benefits-lite2-pfc81b11e5623e044f"
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-edge":false,
+              "layout-pt":"3.5",
+              "layout-pb":"3.5",
+              "banner-pt":3,
+              "banner-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "img-size":50,
+              "img-ratio":"1.5",
+              "img-position":"left",
+              "img-fit":"cover",
+              "font-size":20,
+              "font-size-mobile":18,
+              "align-content":"flex-start",
+              "banner-img":"14935940",
+              "banner-text-color":"#ffffff",
+              "open-link":"normal",
+              "banner-border-radius":16,
+              "padding-button-vert":"0",
+              "padding-button-hor":"20",
+              "font-size-button":"24",
+              "img-ratio-mobile":2,
+              "grid-list-column-gap":1.7,
+              "grid-list-row-gap-mobile":1.7,
+              "show-mark":false,
+              "mark-text":{
+                "ru":"© 2008-2023. Все права защищены. ООО «Инсейлс Рус» (InSales Rus LLC)."
+              },
+              "mark-bg":"#555",
+              "mark-text-color":"#fff",
+              "bg":"#F6F6F7"
+            },
+            "widget_type":"system_widget_v4_page_banner_1_1",
+            "html_id":null,
+            "data_handle":"banner-lite2-pfc81b11e5623e044f"
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-edge":false,
+              "layout-pt":2,
+              "layout-pb":2,
+              "banner-pt":3,
+              "banner-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "img-size":50,
+              "img-ratio":2,
+              "img-position":"right",
+              "img-fit":"cover",
+              "font-size":20,
+              "font-size-mobile":18,
+              "align-content":"flex-start",
+              "banner-img":"14935940",
+              "banner-text-color":"#ffffff",
+              "open-link":"normal",
+              "banner-border-radius":0,
+              "padding-button-vert":"0",
+              "padding-button-hor":"20",
+              "font-size-button":"24",
+              "img-ratio-mobile":2,
+              "grid-list-column-gap":1.7,
+              "grid-list-row-gap-mobile":1.7,
+              "show-mark":false,
+              "mark-text":{
+                "ru":"© 2008-2023. Все права защищены. ООО «Инсейлс Рус» (InSales Rus LLC)."
+              },
+              "mark-bg":"#555",
+              "mark-text-color":"#fff"
+            },
+            "widget_type":"system_widget_v4_page_banner_1_1",
+            "html_id":null,
+            "data_handle":"block-list-2cfb44bce573b725"
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-edge":false,
+              "layout-pt":2,
+              "layout-pb":2,
+              "banner-pt":3,
+              "banner-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "img-size":50,
+              "img-ratio":2,
+              "img-position":"left",
+              "img-fit":"cover",
+              "font-size":20,
+              "font-size-mobile":18,
+              "align-content":"flex-start",
+              "banner-img":"14935940",
+              "banner-text-color":"#ffffff",
+              "open-link":"normal",
+              "banner-border-radius":0,
+              "padding-button-vert":"0",
+              "padding-button-hor":"20",
+              "font-size-button":"24",
+              "img-ratio-mobile":2,
+              "grid-list-column-gap":1.7,
+              "grid-list-row-gap-mobile":1.7,
+              "show-mark":false,
+              "mark-text":{
+                "ru":"© 2008-2023. Все права защищены. ООО «Инсейлс Рус» (InSales Rus LLC)."
+              },
+              "mark-bg":"#555",
+              "mark-text-color":"#fff",
+              "bg":"#FFFFFF"
+            },
+            "widget_type":"system_widget_v4_page_banner_1_1",
+            "html_id":null,
+            "data_handle":"block-list-97319011a1c968b7"
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-edge":false,
+              "layout-pt":2,
+              "layout-pb":2,
+              "banner-pt":3,
+              "banner-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "img-size":50,
+              "img-ratio":2,
+              "img-position":"right",
+              "img-fit":"cover",
+              "font-size":20,
+              "font-size-mobile":18,
+              "align-content":"flex-start",
+              "banner-img":"14935940",
+              "banner-text-color":"#ffffff",
+              "open-link":"normal",
+              "banner-border-radius":0,
+              "padding-button-vert":"0",
+              "padding-button-hor":"20",
+              "font-size-button":"24",
+              "img-ratio-mobile":2,
+              "grid-list-column-gap":1.7,
+              "grid-list-row-gap-mobile":1.7,
+              "show-mark":false,
+              "mark-text":{
+                "ru":"© 2008-2023. Все права защищены. ООО «Инсейлс Рус» (InSales Rus LLC)."
+              },
+              "mark-bg":"#555",
+              "mark-text-color":"#fff"
+            },
+            "widget_type":"system_widget_v4_page_banner_1_1",
+            "html_id":null,
+            "data_handle":"block-list-651b620ec0e67e3b"
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-edge":false,
+              "layout-pt":2,
+              "layout-pb":2,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "text-align":"left",
+              "person-info-align":"center",
+              "grid-list-min-width":250,
+              "grid-list-min-width-mobile":140,
+              "grid-list-row-gap":2,
+              "grid-list-row-gap-mobile":1,
+              "grid-list-column-gap":2,
+              "grid-list-column-gap-mobile":1,
+              "img-border-radius":11,
+              "img-ratio":1,
+              "banners-allign-center":true,
+              "title":{
+                "ru":"Кто мы такие",
+                "ua":"Хто ми такі",
+                "en":"Who we are",
+                "es":"Quiénes somos"
+              },
+              "bg":"#F6F6F7"
+            },
+            "widget_type":"system_widget_v4_personal_1",
+            "html_id":null,
+            "data_handle":"block-list-0085b9661e1c8d18"
+          },
+          {
+            "settings_data":{
+              "bg":"#F6F6F7",
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":2,
+              "layout-pb":1,
+              "hide-mobile":false,
+              "hide-desktop":false
+            },
+            "widget_type":"system_widget_v4_simple_text",
+            "html_id":null,
+            "data_handle":"simple-text-lite2-pfc81b11e5623e044f"
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-edge":false,
+              "layout-pt":6,
+              "layout-pb":6,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "title":{
+                "ru":"<span>Готовы запустить своё мини-приложение в Telegram?</span>",
+                "en":"Didn't find the service you're interested in?",
+                "ua":"Не знайшли цікаву послугу?",
+                "es":"No encontró el servicio que le interesa?"
+              },
+              "description":{
+                "ru":"<p><span>Оставьте заявку — подберём решение под вашу задачу и расскажем, как внедрить его всего за 14 дней.</span></p>",
+                "en":"<p><span>To receive an individual consultation and a preliminary estimate of the cost of the service that suits you, please fill out the request form below. This will help us focus your needs and more accurately determine the scope of work.</span></p>",
+                "ua":"<p><span>Щоб отримати індивідуальну консультацію та попередню оцінку вартості підходящої вам послуги, заповніть, будь ласка, форму запиту нижче. Це допоможе нам сфокусувати ваші потреби та точніше визначити обсяг робіт.</span></p>",
+                "es":"<p><span>Para recibir una consulta individual y una estimación preliminar del costo del servicio que más le convenga, complete el formulario de solicitud a continuación. Esto nos ayudará a centrar sus necesidades y determinar con mayor precisión el alcance del trabajo.</span></p>"
+              },
+              "btn-title":{
+                "ru":"Оставить заявку",
+                "en":"Submit your application",
+                "ua":"Залишити заявку",
+                "es":"Envíe su solicitud"
+              },
+              "bg":null
+            },
+            "widget_type":"system_widget_v4_application_form_1",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"product-section_top-list",
+        "kind":"before_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Верхняя секция страницы товара",
+          "en":"Top section of product page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Верхня секція сторінки товару",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección superior de la página del producto"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"collection-section_top-list",
+        "kind":"before_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Верхняя секция категории",
+          "en":"Top section of the category",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Верхня секція категорії",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección superior de la categoría"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":2,
+              "layout-pb":"0.5",
+              "hide-mobile":false,
+              "hide-desktop":false
+            },
+            "widget_type":"system_widget_v4_page_title_1",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"outside-list",
+        "kind":"outside",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Вне контента",
+          "en":"Outside content",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Поза контенту",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Contenido externo"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-pt":3,
+              "layout-pb":3,
+              "layout-content-max-width":480,
+              "form_title":{
+                "ru":"Напишите нам",
+                "en":"Write to us",
+                "ua":"Напишіть нам",
+                "es":"Escríbenos"
+              },
+              "submit_btn_title":{
+                "ru":"Отправить",
+                "en":"Send",
+                "ua":"Відправити",
+                "es":"Enviar"
+              },
+              "hide-use-agree":true,
+              "success_message":{
+                "ru":"Запрос успешно отправлен!",
+                "en":"Request sent successfully!",
+                "ua":"Запит успішно відправлений!",
+                "es":"¡Solicitud enviada con éxito!"
+              },
+              "hide-field-content":false
+            },
+            "widget_type":"system_widget_v4_callback_modal_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-pt":3,
+              "layout-pb":3,
+              "layout-content-max-width":480,
+              "form_title":{
+                "ru":"Предзаказ",
+                "en":"Preorder",
+                "ua":"Передзамовлення",
+                "es":"Hacer un pedido"
+              },
+              "submit_btn_title":{
+                "ru":"Отправить",
+                "en":"Send",
+                "ua":"Відправити",
+                "es":"Enviar"
+              },
+              "hide-use-agree":true,
+              "success_message":{
+                "ru":"Предзаказ успешно отправлен!",
+                "en":"Preorder sent successfully!",
+                "ua":"Передзамовлення успішно відправлен!",
+                "es":"Hacer un pedido enviado correctament!"
+              },
+              "agree_text":{
+                "ru":"Нажимая на кнопку «Отправить», вы принимаете условия оферты",
+                "en":"By clicking on the «Send» button, you accept the terms of the offer",
+                "ua":"Натискаючи на кнопку «Відправити», ви приймаєте умови оферти",
+                "es":"Al hacer clic en el botón 'Enviar', acepta los términos de la oferta"
+              }
+            },
+            "widget_type":"system_widget_v4_preorder_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "success_feedback":{
+                "ru":"✓ Сообщение успешно отправлено",
+                "en":"✓ Message sent successfully",
+                "ua":"✓ Повідомлення успішно відправлено",
+                "es":"✓ Mensaje enviado con éxito"
+              },
+              "success_cart":{
+                "ru":"✓ Товар добавлен в корзину",
+                "en":"✓ Product added to cart",
+                "ua":"✓ Товар доданий в кошик",
+                "es":"✓ Producto añadido al carrito"
+              },
+              "add_item_compares":{
+                "ru":"Товар добавлен в сравнение",
+                "en":"Product added to comparison",
+                "ua":"Товар доданий в порівняння",
+                "es":"Producto añadido al comparación"
+              },
+              "remove_item_compares":{
+                "ru":"Товар удален из сравнения",
+                "en":"Product removed from comparison",
+                "ua":"Товар вилучений з порівняння",
+                "es":"Producto eliminado de la comparación"
+              },
+              "add_item_favorites":{
+                "ru":"✓ Товар добавлен в избранное",
+                "en":"✓ Product added to favorites",
+                "ua":"✓ Товар доданий в обране",
+                "es":"✓ Producto añadido al favoritos"
+              },
+              "remove_item_favorites":{
+                "ru":"Товар удален из избранного",
+                "en":"Product removed from favorites",
+                "ua":"Товар вилучений з обраного",
+                "es":"Producto eliminado de favoritos"
+              },
+              "overload_compares":{
+                "ru":"⚠ Достигнуто максимальное количество товаров для сравнения",
+                "en":"⚠ The maximum number of items for comparison has been reached",
+                "ua":"⚠ Досягнуто максимальну кількість товарів для порівняння",
+                "es":"⚠ Se alcanzó el número máximo de elementos para comparar"
+              },
+              "overload_favorites":{
+                "ru":"⚠ Достигнуто максимальное количество товаров в избранном",
+                "en":"⚠ The maximum number of items for favorites has been reached",
+                "ua":"⚠ Досягнуто максимальну кількість товарів для избранного",
+                "es":"⚠ Se alcanzó el número máximo de elementos para favorites"
+              },
+              "overload_quantity":{
+                "ru":"⚠ Достигнуто максимальное количество единиц товара для заказа",
+                "en":"⚠ The maximum number of items for the order has been reached",
+                "ua":"⚠ Досягнуто максимальну кількість одиниць товару для замовлення",
+                "es":"⚠ Se ha alcanzado el número máximo de artículos para el pedido"
+              },
+              "success_preorder":{
+                "ru":"✓ Предзаказ успешно отправлен",
+                "en":"✓ Preorder sent successfully",
+                "ua":"✓ Передзамовлення успішно відправлен",
+                "es":"✓ Hacer un pedido enviado correctament"
+              },
+              "accessories_count_error":{
+                "ru":"Выбрано неверное количество опций",
+                "ua":"Вибрано неправильну кількість опцій",
+                "en":"Incorrect number of accessories selected",
+                "es":"Número incorrecto de accesorios seleccionados"
+              },
+              "copy_link":{
+                "ru":"Ссылка скопирована",
+                "ua":"Посилання скопійовано",
+                "en":"The link has been copied",
+                "es":"Enlace copiado"
+              },
+              "info-color":"#cce5ff",
+              "success-color":"#d4edda",
+              "warning-color":"#fff3cd",
+              "danger-color":"#f8d7da"
+            },
+            "widget_type":"system_widget_v4_alerts",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "hide-desktop":false,
+              "hide-mobile":true,
+              "align":"right",
+              "size":1.5,
+              "margin-top":20,
+              "margin-side":1,
+              "button-view":"bg",
+              "button-show":"addcart",
+              "use_widget_border_radius":false,
+              "button-border-radius":"50",
+              "use-widget-border-radius":true
+            },
+            "widget_type":"system_widget_v4_cart_fixed_button_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "hide-desktop":true,
+              "hide-mobile":true,
+              "align":"right",
+              "size":1.5,
+              "icon-view":"icon-arrow-up",
+              "margin-bottom":4.5,
+              "margin-side":1,
+              "button-view":"bg"
+            },
+            "widget_type":"system_widget_v4_button_on_top_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":3,
+              "layout-pb":2,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "cookie_show":false,
+              "cookie_button_text":{
+                "ru":"Понятно",
+                "en":"Understand",
+                "ua":"Зрозуміло",
+                "es":"Entendido"
+              },
+              "cookie_text":{
+                "ru":"<p>Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, которые обеспечивают правильную работу сайта и соглашаетесь с нашей <a href='#' target='_blank'>Политикой безопасности</a></p>",
+                "en":"<p>By continuing to use our site, you consent to the processing of cookies that ensure the correct operation of the site and you agree to our <a href='#' target='_blank'>Security Policy</a></p>",
+                "ua":"<p>Продовжуючи використовувати наш сайт, ви даєте згоду на обробку файлів cookie, які забезпечують правильну роботу сайту і погоджуєтеся з нашою <a href='#' target='_blank'>Безпековою</a></p>",
+                "es":"<p>Al continuar usando nuestro sitio, usted acepta el procesamiento de cookies que garantizan el correcto funcionamiento del sitio y acepta nuestra <a href='#' target='_blank'>Politica de seguridad</a></p>"
+              }
+            },
+            "widget_type":"system_widget_v4_modal_cookie_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "sticker-sale":"#e44542",
+              "sticker-preorder":"#e44542",
+              "sticker-bg-default":"#1b2738"
+            },
+            "widget_type":"system_widget_v4_stiker_hex_color_2",
+            "html_id":null,
+            "data_handle":"stickers-lite2-pfc81b11e5623e044f"
+          }
+        ]
+      },
+      {
+        "handle":"sidebar_blog-list",
+        "kind":"sidebar",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Сайдбар",
+          "en":"Sidebar",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сайдбар",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Barra lateral"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"sidebar_favorite-list",
+        "kind":"sidebar",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Сайдбар",
+          "en":"Sidebar",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сайдбар",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Barra lateral"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"sidebar_search-list",
+        "kind":"sidebar",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Сайдбар",
+          "en":"Sidebar",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сайдбар",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Barra lateral"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"page-section_top-list",
+        "kind":"before_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Верхняя секция страницы",
+          "en":"Top section of the page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Верхня секція сторінки",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección superior de la página"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"article-list",
+        "kind":"content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Статья",
+          "en":"Article",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Стаття",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Artículo"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":3,
+              "layout-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "article-hide-photo":false,
+              "img-border-radius":6,
+              "img-ratio":2,
+              "img-fit":"cover",
+              "widget-heading-ratio":1.5,
+              "widget-heading-weight":500,
+              "article-max-width":850
+            },
+            "widget_type":"system_widget_v4_article_1",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":3,
+              "layout-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "count-special-products":8,
+              "img-ratio":1,
+              "slide-width":160,
+              "slide-width-mobile":130,
+              "slide-gap":30,
+              "slide-gap-mobile":15,
+              "hide-description":true,
+              "product-hide-compare":false,
+              "product-desc-limit":10,
+              "switch-img-on-hover":false,
+              "product-info-accent":"price",
+              "img-fit":"contain",
+              "sticker-font-size":0.7,
+              "product-info-align":"left",
+              "align-title":"left",
+              "title":{
+                "ru":"Товары, упомянутые в статье",
+                "en":"Products mentioned in the article",
+                "ua":"Товари, згадані в статті",
+                "es":"Productos mencionados en el artículo"
+              },
+              "hide-sku":true,
+              "border-radius":0,
+              "hide-mobile-modal-variants":false
+            },
+            "widget_type":"system_widget_v4_article_products_5",
+            "html_id":null
+          },
+          {
+            "settings_data":{
+              "layout-wide-bg":false,
+              "layout-wide-content":false,
+              "layout-pt":3,
+              "layout-pb":3,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "grid-list-min-width":450,
+              "grid-list-row-gap":0,
+              "grid-list-column-gap":2,
+              "title":{
+                "ru":"Комментарии",
+                "en":"Comments",
+                "ua":"Відгуки",
+                "es":"Opiniones"
+              }
+            },
+            "widget_type":"system_widget_v4_article_comments_1",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"top-panel-list",
+        "kind":"top_panel",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Верхняя панель",
+          "en":"Top panel",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Верхня панель",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Panel superior"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"sidebar_compare-list",
+        "kind":"sidebar",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Сайдбар",
+          "en":"Sidebar",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сайдбар",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Barra lateral"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"sidebar_cart-list",
+        "kind":"sidebar",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Сайдбар",
+          "en":"Sidebar",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Сайдбар",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Barra lateral"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"footer-list",
+        "kind":"footer",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Подвал",
+          "en":"Footer",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Підвал",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Pie de página"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "bg":"#F6F6F7",
+              "layout-wide-bg":true,
+              "layout-wide-content":false,
+              "layout-pt":"0.5",
+              "layout-pb":"0.5",
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "logo-max-width":276,
+              "hide-pay":false,
+              "hide-social":true,
+              "menu_handle":"main-menu",
+              "copyright-text":{
+                "ru":"<a href=\"https://www.insales.ru/\" target=\"_blank\">Интернет-магазин создан на inSales</a>",
+                "en":"<a href=\"https://www.insales.com/en\" target=\"_blank\">Online store created on inSales</a>",
+                "ua":"<a href=\"https://www.insales.com/ua\" target=\"_blank\">Інтернет-магазин створений на inSales</a>",
+                "es":"<a href=\"https://www.insales.com\" target=\"_blank\">Tienda online creada en inSales</a>",
+                "ky":"<a href=\"https://www.insales.kg/\" target=\"_blank\">Интернет-магазин создан на inSales</a>",
+                "be":"<a href=\"https://www.insales.by/\" target=\"_blank\">Интернет-магазин создан на inSales</a>",
+                "kz":"<a href=\"https://www.insales.kz/\" target=\"_blank\">Интернет-магазин создан на inSales</a>"
+              },
+              "align-text":"left"
+            },
+            "widget_type":"system_widget_v4_footer_16_1",
+            "html_id":null
+          }
+        ]
+      },
+      {
+        "handle":"header-list",
+        "kind":"header",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Шапка",
+          "en":"Header",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Шапка",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Encabezamiento"
+        },
+        "widgets":[
+          {
+            "settings_data":{
+              "logo-max-width":280,
+              "hide-mobile":false,
+              "hide-desktop":false,
+              "layout-wide-content":false,
+              "menu-1":"main-menu",
+              "banner-overlay-color":"#000000",
+              "banner-overlay-opacity":0.5,
+              "color-btn-sl-bg":"#ffffff",
+              "hide-button-contact":true,
+              "logo-img":null,
+              "hide-social":true,
+              "hide-button":false
+            },
+            "widget_type":"system_widget_v4_header_18",
+            "html_id":null,
+            "data_handle":"header-lite2-131-pfc81b11e5623e044f"
+          }
+        ]
+      },
+      {
+        "handle":"article-section_bottom-list",
+        "kind":"after_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Нижняя секция статьи",
+          "en":"Bottom section of the article",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Нижня секція статті",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección inferior del artículo"
+        },
+        "widgets":[]
+      },
+      {
+        "handle":"product-section_bottom-list",
+        "kind":"after_content",
+        "owner_id":null,
+        "owner_type":null,
+        "custom_template":null,
+        "name":{
+          "ru":"Нижняя секция страницы товара",
+          "en":"Bottom section of the product page",
+          "ee":null,
+          "lv":null,
+          "lt":null,
+          "ua":"Нижня секція сторінки товару",
+          "fr":null,
+          "de":null,
+          "it":null,
+          "cn":null,
+          "jp":null,
+          "pl":null,
+          "az":null,
+          "he":null,
+          "bg":null,
+          "el":null,
+          "cz":null,
+          "pt":null,
+          "fi":null,
+          "es":"Sección inferior de la página del producto"
+        },
+        "widgets":[]
+      }
+    ],
+    "widget_types":[]
+  }
+}
